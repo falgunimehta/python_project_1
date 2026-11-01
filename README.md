@@ -11,6 +11,8 @@ Jupyter Notebook
 
 VS Code
 
-i learned working with lists and dictionaries.
+What I learned:
+
+I learned working with lists and dictionaries.
 
 Author: Falguni Mehta
